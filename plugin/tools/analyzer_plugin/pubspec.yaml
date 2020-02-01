@@ -1,0 +1,11 @@
+name: analyzer_test_plugin
+version: 1.0.0
+description: __
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  analyzer: ^0.38.5
+  analyzer_plugin: ^0.2.1
+
